@@ -1,5 +1,5 @@
 root = true
 
 [*]
-indenty_style = space
-indenty_size = 2
+indent_style = space
+indent_size = 2
